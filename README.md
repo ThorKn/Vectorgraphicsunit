@@ -1,16 +1,16 @@
 ## Vectorgraphicsunit
 --------------
-|###Introduction|
+|Introduction|
 --------------
 Intro here.
 ![Oscilloscope: Vectorcube](/images/cube.jpg)
 ----------------------------------
-|###Hybrid-FPGA and Xilinx VivadoHLS|
+|Hybrid-FPGA and Xilinx VivadoHLS|
 ----------------------------------
 About Zynq7010 and HLS.
 
 ----------------
-|###Vectorgraphics|
+|Vectorgraphics|
 ----------------
 Pictures of the Osci + Explanation.
 
